@@ -38,6 +38,7 @@ html {
   height: 51rem;
   background-color: #fff;
   border-radius: 3rem;
+  box-shadow: 0.4rem 0.8rem 2rem var(--textVeryDarkGrayishBlue);
 }
 
 .img-container {
