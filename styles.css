@@ -124,7 +124,9 @@ html {
 
 @media screen and (max-width: 376px) {
   .main {
-    align-items: stretch;
+    align-items: unset;
+    justify-content: unset;
+    padding-inline: 0.8rem;
   }
   .card {
     width: 34rem;
